@@ -1,1 +1,1 @@
-Suddenly a car shows up and it's heading right towards you.
+Suddenly a car shows up and it's heading right towards you. The headlights are shinging bright in your eyes and you lose your mind for moment. Then the lights disappear and it's dark and [you're in a tunnel](../blackout/blackout.md).
